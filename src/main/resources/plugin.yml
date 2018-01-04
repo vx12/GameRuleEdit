@@ -1,0 +1,9 @@
+name: GUIGameRuleEdit
+author: vx12
+version: 1.0
+main: org.vx12.gre.GameRuleEdit
+
+commands:
+  gameruleedit:
+    description: Opens up a GUI in which you are able to configure your worlds gamerules!
+    aliases: [gre]
